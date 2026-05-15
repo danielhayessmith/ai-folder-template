@@ -8,7 +8,7 @@ A starter template for the `.ai/` folder structure — a simple way to give your
 |------|---------|
 | `.ai/agents.md` | Describes your project to the AI: stack, conventions, and things it should never do |
 | `.ai/todo.md` | Your running task list — what's done, what's next |
-| `.ai/example-feature.md` | An example feature plan — one file per major thing you're building |
+| `.ai/session-opener.md` | A ready-to-paste prompt for starting every AI session |
 
 ## How to use it
 
@@ -27,6 +27,17 @@ Once you've reviewed everything, let me know which tasks we have next, prioritiz
 Also, let me know what the last change in the git repo was so I can jog my own memory
 of where we left off. Then we'll discuss and get started.
 ```
+
+## Examples
+
+Real-world examples of how this looks across different project types:
+
+| Example | Stack | Description |
+|---------|-------|-------------|
+| [`examples/mobile-app`](examples/mobile-app/.ai/) | React Native + Expo + Supabase | Personal expense tracking app |
+| [`examples/web-app`](examples/web-app/.ai/) | Next.js 15 + Supabase + Vercel | Freelance proposal generator |
+| [`examples/ecommerce`](examples/ecommerce/.ai/) | Shopify + Dawn theme | Handmade textile goods store |
+| [`examples/marketing-website`](examples/marketing-website/.ai/) | Astro + Netlify | HR consulting firm site |
 
 ---
 
