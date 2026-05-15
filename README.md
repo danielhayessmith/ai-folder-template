@@ -41,4 +41,4 @@ Real-world examples of how this looks across different project types:
 
 ---
 
-From [Good Code](https://goodcode.schutzsmith.com) — a practical field guide for non-developers building with AI.
+From [Good Code](https://goodcode.danielhayessmith.com) — a practical field guide for non-developers building with AI.
