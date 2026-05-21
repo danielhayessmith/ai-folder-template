@@ -1,8 +1,11 @@
 # Todo
 
 ## Last session
+
 What changed: 
+
 Next step: 
+
 Watch out for: 
 
 ---
