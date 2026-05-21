@@ -1,15 +1,5 @@
 # Todo
 
-## Last session
-
-What changed: 
-
-Next step: 
-
-Watch out for: 
-
----
-
 ## In progress
 - [ ] [What you're working on right now]
 
@@ -17,5 +7,15 @@ Watch out for:
 - [ ] [Next priority]
 - [ ] [After that]
 
+## Blocked / Questions
+- [ ] [Anything waiting on a decision, dependency, or answer]
+
 ## Done
 - [x] [Things you've shipped]
+
+---
+
+## Last session
+- Changed:
+- Next:
+- Watch out for:
