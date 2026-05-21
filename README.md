@@ -7,7 +7,7 @@ A starter template for the `.ai/` folder structure — a simple way to give your
 | File | Purpose |
 |------|---------|
 | `.ai/agents.md` | Describes your project to the AI: stack, conventions, and things it should never do |
-| `.ai/todo.md` | Your running task list — what's done, what's next |
+| `.ai/todo.md` | Your running task list: in progress, up next, blocked items, done, and a quick last-session handoff |
 | `.ai/session-opener.md` | A ready-to-paste prompt for starting every AI session |
 
 ## How to use it
@@ -16,6 +16,34 @@ A starter template for the `.ai/` folder structure — a simple way to give your
 2. Fill in `agents.md` with your actual stack and conventions
 3. Update `todo.md` as you work
 4. Add a new file for each major feature you plan to build
+
+## Suggested `todo.md` shape
+
+Use `todo.md` as the working document first and the handoff second:
+
+```md
+# Todo
+
+## In progress
+- [ ] [What you're working on right now]
+
+## Up next
+- [ ] [Next priority]
+- [ ] [After that]
+
+## Blocked / Questions
+- [ ] [Anything waiting on a decision, dependency, or answer]
+
+## Done
+- [x] [Things you've shipped]
+
+---
+
+## Last session
+- Changed:
+- Next:
+- Watch out for:
+```
 
 ## Start every session with this prompt
 
