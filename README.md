@@ -6,16 +6,26 @@ A starter template for the `.ai/` folder structure — a simple way to give your
 
 | File | Purpose |
 |------|---------|
-| `.ai/agents.md` | Describes your project to the AI: stack, conventions, and things it should never do |
+| `.ai/agents.md` | Describes your project to the AI: what it does, stack, conventions, and things it should never do |
 | `.ai/todo.md` | Your running task list: in progress, up next, blocked items, done, and a quick last-session handoff |
 | `.ai/session-opener.md` | A ready-to-paste prompt for starting every AI session |
+| `.ai/example-feature.md` | A sample feature doc — copy its shape for each major feature you plan to build |
+| `SETUP.md` | A paste-into-AI prompt that interviews you and fills in the `.ai/` files for you |
 
 ## How to use it
+
+**Option A — let your AI fill it in for you (fastest)**
+
+1. Copy this template (or just the `.ai/` folder and `SETUP.md`) into your project
+2. Open `SETUP.md`, copy everything below the divider, and paste it into your AI assistant
+3. Answer a handful of questions — it writes `agents.md`, `todo.md`, and `session-opener.md` for you
+
+**Option B — fill it in by hand**
 
 1. Copy the `.ai/` folder into the root of your project
 2. Fill in `agents.md` with your actual stack and conventions
 3. Update `todo.md` as you work
-4. Add a new file for each major feature you plan to build
+4. Add a new file for each major feature you plan to build (see `.ai/example-feature.md`)
 
 ## Suggested `todo.md` shape
 

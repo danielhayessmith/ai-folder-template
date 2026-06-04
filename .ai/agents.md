@@ -1,5 +1,8 @@
 # Project: [Your Project Name]
 
+## What it does
+[One or two sentences: what the project does, and who it's for]
+
 ## Stack
 - Frontend: [e.g. React, Next.js, plain HTML]
 - Backend: [e.g. Node.js, Python, none]
